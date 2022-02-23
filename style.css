@@ -1,0 +1,20 @@
+body {
+  background-color: beige;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+ul li {
+  list-style: square;
+}
+
+ol li {
+  list-style: lower-roman;
+}
+
+li {
+  line-height: 2;
+}
